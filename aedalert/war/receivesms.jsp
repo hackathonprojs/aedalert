@@ -31,6 +31,6 @@ if (result.length() > 0) {
 	smsText = buffer.toString();
 }
 
-RetrieveData.sendSpark("https://api.ciscospark.com/v1/messages", smsText, "ycfhan@gmail.com"); 
+RetrieveData.sendSpark("https://api.ciscospark.com/v1/messages", smsText, "codercollective3@gmail.com"); 
 %>
 <%=result%>
